@@ -1,0 +1,8 @@
+#nav-logo-menu-drop .nav-bg {
+    background: linear-gradient(135deg, #444444, #222222);
+    background: -webkit-linear-gradient(315deg, #444444, #222222);
+}
+
+#nav-logo-menu-drop ul.nav ul{
+    background: #222222;
+}

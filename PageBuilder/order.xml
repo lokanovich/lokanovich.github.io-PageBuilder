@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <sections>
+        <navigations order="0">
+            <nav-center-menu-logo-social order="0" />
+            <nav-logo-menu-drop order="0" />
+            <nav-logo-menu-btn-2 order="0" />
+            <nav-fluid-logo-menu-drop order="0" />
+            <nav-fluid-center-logo-menu-btn order="5" />
+            <nav-center-logo-menu-btn order="1" />
+            <nav-center-menu-logo-btn order="2" />
+            <nav-center-logo-menu-social order="3" />
+            <nav-menu-social order="4" />
+            <nav-fluid-canvas-3 order="1" />
+            <nav-fluid-canvas-2 order="6" />
+            <nav-fluid-canvas order="7" />
+            <nav-logo-menu-btn order="8" />
+            <nav-logo-menu order="9" />
+            <nav-menu-text order="10" />
+        </navigations>
+        <headers order="1">
+            <header-img-slogan-btn-3 order="0" />
+            <header-center-slogan order="0" />
+            <header-slogan-btn-2 order="0" />
+            <header-img-subscribe-videobg order="5" />
+            <header-img-slogan-btn-2 order="1" />
+            <header-slogan-btn-img order="2" />
+            <header-slogan-btn-img-modal order="4" />
+            <header-center-slogan-img-2 order="3" />
+            <header-center-carousel order="1" />
+            <header-img-slogan-btn order="6" />
+            <header-slogan-modal-2 order="7" />
+            <header-img-slogan-videobg order="8" />
+            <header-slogan-halfbg order="9" />
+            <header-slogan-modal order="10" />
+            <header-center-logo-slogan order="11" />
+            <header-slogan-btn order="1000000" />
+        </headers>
+        <descriptions order="2">
+            <desc-img-text-btn-2 order="0" />
+            <desc-img-img-text-btn order="0" />
+            <desc-img-text-btn-img order="0" />
+            <desc-text-img-3 order="1" />
+            <desc-center-slogan-img-text order="1" />
+            <desc-halfbg-list-btn order="3" />
+            <desc-text-img-img order="2" />
+            <desc-img-text-3col order="6" />
+            <desc-text-img-2 order="4" />
+            <desc-center-text order="5" />
+            <desc-text-2col-img-2 order="7" />
+            <desc-text-2col-img order="8" />
+            <desc-img-text-4col order="9" />
+            <desc-text-btn-halfbg order="10" />
+            <desc-halfbg-text-btn order="11" />
+            <desc-halfbg-text-btn-2 order="12" />
+        </descriptions>
+        <benefits order="3">
+            <benefit-center-text-img-text-3 order="0" />
+            <benefit-2col order="0" />
+            <benefit-2col-border order="0" />
+            <benefit-4col-border-2 order="0" />
+            <benefit-5col-2row order="2" />
+            <benefit-slogan-2col order="5" />
+            <benefit-3col-2row-2 order="1" />
+            <benefit-center-text-img-text order="2" />
+            <benefit-center-text-img-text-2 order="4" />
+            <benefit-center-text-3col order="3" />
+            <benefit-center-text-4col order="6" />
+            <benefit-center-4col order="7" />
+            <benefit-center-3col-2row order="8" />
+            <benefit-4col-counter order="9" />
+            <benefit-center-img-3col order="10" />
+            <benefit-4col-border order="11" />
+            <benefit-2col-img order="12" />
+        </benefits>
+        <actions order="4">
+            <action-center-text-img-btn order="0" />
+            <action-center-btn-text order="0" />
+            <action-img-text-btn-img-text-btn order="0" />
+            <action-img-text-btn-3 order="0" />
+            <action-center-img-text-btn order="0" />
+            <action-img-text-btn-2 order="0" />
+            <action-text-btn-2 order="0" />
+            <action-right-text-btn order="0" />
+            <action-center-text order="0" />
+            <action-img-text-btn order="1" />
+            <action-center-text-btn-img order="1" />
+            <action-center-text-btn-2 order="2" />
+            <action-btn-text order="3" />
+            <action-center-text-btn order="4" />
+            <action-text-btn order="5" />
+            <action-text-btn-img order="6" />
+            <action-text-phone order="7" />
+            <action-text-videobg order="8" />
+        </actions>
+        <text order="5">
+        </text>
+        <clients>
+            <clients-carousel order="0" />
+            <clients-carousel-2 order="0" />
+            <clients-carousel-3 order="0" />
+            <clients-list order="0" />
+            <clients-line order="0" />
+        </clients>
+        <galleries>
+            <gallery-list-2col-2 order="0" />
+            <gallery-list-3col-2 order="0" />
+            <gallery-list-3col-3 order="0" />
+            <gallery-list-3col-4 order="0" />
+            <gallery-list-4col-2 order="0" />
+            <gallery-list-4col-3 order="0" />
+            <gallery-carousel-2 order="1" />
+            <gallery-fluid-list-4col-2row order="2" />
+            <gallery-list-2col-mix order="1" />
+            <gallery-list-4col order="3" />
+            <gallery-list-2col order="4" />
+        </galleries>
+        <prices>
+            <price-3col-2 order="0" />
+        </prices>
+        <subscription>
+            <subscribe-text-field order="0" />
+            <subscribe-center-field-2 order="1" />
+            <subscribe-center-field-3 order="2" />
+        </subscription>
+        <teams>
+            <team-3col order="0" />
+        </teams>
+        <testimonials>
+            <testimonials-carousel-single-5 order="0" />
+            <testimonials-center-single order="0" />
+            <testimonials-2col order="0" />
+            <testimonials-carousel-single-4 order="0" />
+            <testimonials-4col order="2" />
+            <testimonials-carousel order="1" />
+            <testimonials-carousel-single-3 order="1" />
+        </testimonials>
+        <videos>
+            <video-center-icon-text order="0" />
+            <video-center-text order="1" />
+        </videos>
+        <contacts order="1000000">
+            <contact-center-form-2 order="0" />
+            <contact-center-text-map order="0" />
+            <contact-img-form order="1" />
+            <contact-img-text-map order="2" />
+        </contacts>
+        <special></special>
+        <footers order="1000001">
+            <footer-text-img-btn order="1" />
+            <footer-text-logo-share order="0" />
+            <footer-text-icon-social order="2" />
+            <footer-list-form order="3" />
+            <footer-list-subscribe order="4" />
+            <footer-text-logo-btn order="5" />
+        </footers>
+    </sections>

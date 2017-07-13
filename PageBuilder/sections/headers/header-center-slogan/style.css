@@ -1,0 +1,24 @@
+#header-center-slogan {
+    background: #0069ff;
+}
+
+#header-center-slogan .bg {
+    background-image: url('./sections/headers/header-center-slogan/images/bg-laptop-2.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    opacity:0.08;
+}
+
+.absolute-bottom-box{
+    position: absolute;
+    bottom: 0;
+    left:0;
+    right:0;
+    text-align: center;
+}
+
+.absolute-bottom-box .icon-size-l,
+.absolute-bottom-box .icon-size-xl{
+    display: inline-block;
+}
